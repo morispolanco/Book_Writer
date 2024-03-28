@@ -88,7 +88,7 @@ if __name__ == '__main__':
     save_file('logs/log_%s_notes.txt' % time(), notes)
     
     ## GENERATING outline
-    bookName = 'logs/log_%s_book.txt' % time()
+    bookName = 'logs/log_%s_book.md' % time()
     chat_print('\n\nGenerating Outline Report')
     conversation = list()
     conversation.append({'role': 'system', 'content': open_file('system_03_outline_write.md')})
