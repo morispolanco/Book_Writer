@@ -1,45 +1,7 @@
-# MediBot - Intelligent Medical Assistant
+# BookWriter - Intelligent Writer Assistant
+　Best　BookWriter for you
 
-1. Target Users
-  a. Clinical Physicians
-  b. Nurses
-  c. Medical Experts
-  d. Patients
-
-2. Key Features
-  2.1 Patient Intake and Symptom Collection
-    a. Automatically ask questions to help patients describe their symptoms clearly.
-    b. Convert chat records into medical records.
-  2.2 Clinical Recommendations
-    a. Generate possible diagnoses or investigation directions based on the patient's symptoms and medical records.
-    b. Provide clinical examination recommendations, including which senses should be used for examination.
-  2.3 Referrals and Follow-up Tests
-    a. Recommend specialized referrals that may be needed.
-    b. Suggest follow-up laboratory tests and examinations.
-   2.4 Interview Questions Generation
-    a. Generate a list of questions for doctors to use during interviews with patients.
-
-3. Technical Implementation
-  a. Utilize large language models for natural language processing and understanding.
-  b. Integrate medical databases to provide more accurate diagnoses and recommendations.
-  c. Use machine learning algorithms to optimize diagnostic accuracy.
-
-4. Data Security and Compliance
-  a. HIPAA (Health Insurance Portability and Accountability Act) compliance.
-  b. Data encryption for storage and transmission.
-
-5. Business Model
-  a. Subscription Model: Healthcare institutions subscribe on a monthly or annual basis.
-  b. One-time Service Fees: For individual patients or small clinics.
-
-6. Development Roadmap
-  a. Prototype development and internal testing.
-  b. Small-scale pilot projects.
-  c. Gather feedback and optimize.
-  d. Expand service coverage.
-  e. Continuously update and optimize.
-
-# Medical Device Disclaimer
+# BookWriter Disclaimer
 
 This software, found under this repository and licensed under the MIT license, is an experimental project and is NOT a medical device. It is not intended to be used as a medical device or as a substitute for professional medical advice, diagnosis, or treatment. 
 
